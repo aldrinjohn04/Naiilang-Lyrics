@@ -1,16 +1,16 @@
-\# Naiilang Lyrics (Python Typing Animation)
+# Naiilang Lyrics (Python Typing Animation)
 
 This is a simple Python script that displays the lyrics of the song
 \*\*\"Naiilang\"\*\* with a simulated typing animation. Each line
 appears with a customizable typing speed and delay, making it feel like
 the lyrics are being typed in real-time.
 
-\## 🐍 Features
+## 🐍 Features
 
-\- Typing animation using \`sys.stdout\` and \`time.sleep\` - Custom
+- Typing animation using \`sys.stdout\` and \`time.sleep\` - Custom
 typing speed and delay per line - Simple, clean terminal display
 
-\## 🛠️ How It Works
+## 🛠️ How It Works
 
 The lyrics are stored in a list of tuples: \`\`\`python (\"line of
 lyrics\", typing_duration, after_delay) Each line is printed one
